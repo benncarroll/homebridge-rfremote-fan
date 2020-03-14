@@ -9,7 +9,11 @@
     "homebridge": ">=0.2.0"
   },
   "dependencies": {
-    "locks": "^0.2.2",
+    "homebridge": "^0.4.50",
+    "homebridge-config-ui-x": "^4.5.1",
+    "homebridge-http-switch": "^0.5.23",
+    "homebridge-lib": "^4.2.8",
+    "homebridge-zp": "^0.4.3",
     "request": "^2.74.0"
   }
 }
